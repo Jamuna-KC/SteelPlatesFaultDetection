@@ -90,3 +90,6 @@ python prepare_data.py
 python train_models.py
 streamlit run app.py
 ```
+## Live Streamlit Apllication link:
+https://steelplatesfaultdetection-wl23nb4uyaeu5mkv9wqobc.streamlit.app/
+
