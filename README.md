@@ -1,5 +1,8 @@
 # Steel Plate Fault Detection
 
+## Live Streamlit Appication link:
+https://steelplatesfaultdetection-wl23nb4uyaeu5mkv9wqobc.streamlit.app/
+
 ## Problem Statement
 
 Manufacturing quality-control teams need to identify surface defects on steel plates quickly and consistently. This project uses supervised machine learning to classify a steel plate into one of seven defect categories from 27 numeric surface, geometric, luminosity, and steel-related measurements.
@@ -90,6 +93,3 @@ python prepare_data.py
 python train_models.py
 streamlit run app.py
 ```
-## Live Streamlit Appication link:
-https://steelplatesfaultdetection-wl23nb4uyaeu5mkv9wqobc.streamlit.app/
-
